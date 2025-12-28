@@ -1,9 +1,9 @@
 <img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/Welcome-To-My-Profile-Image-DG123309.gif?raw=true" width="100%" height="150">
 
-<img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/Welcome-To-My-Profile-Image-DG123309.gif?raw=true" width="100%" height="150">
-
 <div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 25px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(234,185,250,0.4);">
-# Hi, I'm Mayuri Atole 👋
+
+  <img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/d7qsj4b6080f1.gif?raw=true" width="100%" height="150">
+  # Hi, I'm Mayuri Atole 👋
 
 **MCA Student | AI/ML Engineer**
 </div>
