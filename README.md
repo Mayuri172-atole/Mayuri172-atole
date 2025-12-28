@@ -1,13 +1,10 @@
 <img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/Welcome-To-My-Profile-Image-DG123309.gif?raw=true" width="100%" height="150">
 
-<div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 25px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(234,185,250,0.4);">
-
-  <img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/d7qsj4b6080f1.gif?raw=true" width="100%" height="150">
-  # Hi, I'm Mayuri Atole 👋
-
-**MCA Student | AI/ML Engineer**
+<div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 35px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 50px rgba(234,185,250,0.4);">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%21+%F0%9F%91%8B;I'm+Mayuri+Atole;MCA+Student+%7C+AI%2FML+Engineer;Welcome+to+my+profile%21+%F0%9F%8C%90;98.2%25+CNN+Sugarcane+Detection" alt="Typing SVG" />
 </div>
-
+</div>
 
 
 Hi, I'm Mayuri Atole 👋<br><br> MCA Student <br><br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayuri-atole-9a4b25288)<br>[![X](https://img.shields.io/badge/X-@AtoleMayuri172-black)](https://x.com/AtoleMayuri172)
