@@ -2,12 +2,11 @@
 
 <div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 35px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 50px rgba(234,185,250,0.4);">
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%21+%F0%9F%91%8B;I'm+Mayuri+Atole;Welcome+to+my+profile%21+%F0%9F%8C%90;98.2%25+CNN+Sugarcane+Detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%21+%F0%9F%91%8B;I'm+Mayuri+Atole;Welcome+to+my+profile%21+%F0%9F%8C%90;" alt="Typing SVG" />
 </div>
 </div>
-
 <h3>Mayuri Atole</h3>
- <br><br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayuri-atole-9a4b25288)<br>[![X](https://img.shields.io/badge/X-@AtoleMayuri172-black)](https://x.com/AtoleMayuri172)
+ <br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayuri-atole-9a4b25288)<br>[![X](https://img.shields.io/badge/X-@AtoleMayuri172-black)](https://x.com/AtoleMayuri172)
 
 
 ## 🌐 Socials:
