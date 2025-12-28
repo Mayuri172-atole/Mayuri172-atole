@@ -6,8 +6,7 @@
 </div>
 </div>
 <h3>Mayuri Atole</h3>
- <br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>
-
+ <br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Data Analytics & Machine Learning enthusiast | MCA student specializing in Python, Power BI, Tableau, Machine Learning, Deep Learning, HTML, CSS | Seeking Data Analytics Intern roles to apply skills on real-world, data-driven projects
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__atole_myu_172) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuri-atole-9a4b25288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AtoleMayuri172) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Coding247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atolemayuri17@gmail.com) 
 
