@@ -1,8 +1,16 @@
 <img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/Welcome-To-My-Profile-Image-DG123309.gif?raw=true" width="100%" height="150">
 
-**# About Me:
+<img src="https://github.com/Mayuri172-atole/Mayuri172-atole/blob/main/Welcome-To-My-Profile-Image-DG123309.gif?raw=true" width="100%" height="150">
 
-**# Hi, I'm Mayuri Atole 👋<br><br> MCA Student <br><br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayuri-atole-9a4b25288)<br>[![X](https://img.shields.io/badge/X-@AtoleMayuri172-black)](https://x.com/AtoleMayuri172)
+<div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 25px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(234,185,250,0.4);">
+# Hi, I'm Mayuri Atole 👋
+
+**MCA Student | AI/ML Engineer**
+</div>
+
+
+
+Hi, I'm Mayuri Atole 👋<br><br> MCA Student <br><br>🛠️ Tech Stack**  <br>• Python • CNN • YOLO • Power BI • MERN  <br>• Kaggle • Colab • MongoDB • Streamlit<br><br> 🔥 Top Projects  <br>[Sugarcane CNN](https://github.com/Mayuri172-atole/sugarcane)  <br>[YOLO Detection](https://github.com/Mayuri172-atole/yolo)  <br>[Diabetes ML 95.5%](https://github.com/Mayuri172-atole/diabetes)<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayuri-atole-9a4b25288)<br>[![X](https://img.shields.io/badge/X-@AtoleMayuri172-black)](https://x.com/AtoleMayuri172)
 
 
 ## 🌐 Socials:
