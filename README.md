@@ -6,11 +6,6 @@
 </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #eab9fa 0%, #d946ef 33%, #a855f7 66%, #3b82f6 100%); padding: 35px; border-radius: 25px; margin: 20px 0; box-shadow: 10 20px 50px rgba(234,185,250,0.4);">
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+there%21+%F0%9F%91%8B;I'm+Mayuri+Atole;Welcome+to+my+profile%21+%F0%9F%8C%90;" alt="Typing SVG" />
-</div>
-</div>
 <h3><b>Mayuri Atole</b></h3>
  
  <br><br> 
